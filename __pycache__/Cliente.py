@@ -1,4 +1,4 @@
-import pycache.Pedido as Pedido
+import __pycache__.Pedido as Pedido
 
 class Cliente:
     def __init__(self, nombre):

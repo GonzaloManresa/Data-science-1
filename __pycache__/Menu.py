@@ -1,4 +1,4 @@
-import pycache.Plato_Menu as Plato_Menu
+import __pycache__.Plato_Menu as Plato_Menu
 
 class Menu:
     def __init__(self):
